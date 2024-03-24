@@ -4,3 +4,4 @@ version=v1.0.2 Beta
 versionCode=102
 author=CC、LAGSNES、爱蜜莉雅
 description=Telegram：@CC_CHEAT，模块显示存在兼容性问题未加载，属于正常情况，启动游戏模块自动运行。支持KernelSU和APatch。使用前需打开Zygisk。
+updateJson=https://raw.githubusercontent.com/CC-Cheat/CODM-Module/main/update.json
